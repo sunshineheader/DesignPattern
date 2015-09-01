@@ -1,0 +1,16 @@
+﻿Build started 2015/9/1 11:11:12.
+     1>Project "D:\DesignPattern\Chain of Responsibility\Chain of Responsibility\Chain of Responsibility.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DesignPattern\Chain of Responsibility\Debug\Chain of Responsibility.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\DesignPattern\Chain of Responsibility\Debug\Chain of Responsibility.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DesignPattern\Chain of Responsibility\Debug\Chain of Responsibility.lib" /MACHINE:X86 Debug\ConcreteHandleFrist.obj
+         Debug\ConcreteHandleSecond.obj
+         Debug\Handle.obj
+         Debug\main.obj
+         Chain of Responsibility.vcxproj -> D:\DesignPattern\Chain of Responsibility\Debug\Chain of Responsibility.exe
+     1>Done Building Project "D:\DesignPattern\Chain of Responsibility\Chain of Responsibility\Chain of Responsibility.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.50
